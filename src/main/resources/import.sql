@@ -1,0 +1,68 @@
+INSERT INTO song (title, author,  length, version) VALUES ('1I luv money', 'Michael',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('2Sick!!', 'Sven',  '3:45', 0);
+INSERT INTO song (title, author,  length, version) VALUES ('31400', 'Aria', '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('4Lvl up', 'Mike',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('5Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('Tino', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('6Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('7Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('8Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('9Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('0Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('6Lets Get It', 'Stephan',  '3:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('7I luv money', 'Natalia',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('8Sick!!', 'tscih',  '3:45',0);
+INSERT INTO song (title, author,  length, version) VALUES ('91400', 'asd',  '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('10Lvl up', 'fd',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('11I luv money', '1234',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('12Sick!!', '123',  '3:45',0);
+INSERT INTO song (title, author,  length, version) VALUES ('131400', '45',  '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('14Lvl up', '21345',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('15Benzo', '12345',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('16Lets Get It', '123421',  '3:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('17I luv money', '2341',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('18Sick!!', '34werewq56',  '3:45',0);
+INSERT INTO song (title, author,  length, version) VALUES ('191400', '432wqer5213',  '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('20Lvl up', '32qereq4631',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('21I luv money', '754634',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('22Sick!!', '123455474',  '3:45',0);
+INSERT INTO song (title, author,  length, version) VALUES ('231400', '123432532',  '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('24Lvl up', '123412342134',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('25Benzo', '213412341253454',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('26Lets Get It', '567567',  '3:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('27I luv money', '56',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('28Sick!!', '567658',  '3:45',0);
+INSERT INTO song (title, author,  length, version) VALUES ('291400', '8787653',  '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('30Lvl up', '45652546',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('31I luv money', 'asdgghdsf',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('32Sick!!', 'cxvbcxvb',  '3:45',0);
+INSERT INTO song (title, author,  length, version) VALUES ('331400', 'fghrze',  '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('34Lvl up', 'sdfgwqet',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('35Benzo', 'zjgtjg',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('36Lets Get It', 'asdfawer',  '3:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('1I luv money', 'Michael',  '2:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('2Sick!!', 'Sven',  '3:45', 0);
+INSERT INTO song (title, author,  length, version) VALUES ('31400', 'Aria', '1:43',0);
+INSERT INTO song (title, author,  length, version) VALUES ('4Lvl up', 'Mike',  '3:13',0);
+INSERT INTO song (title, author,  length, version) VALUES ('5Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('Tino', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('6Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('7Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('8Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('9Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('0Benzo', 'Tino',  '3:00',0);
+INSERT INTO song (title, author,  length, version) VALUES ('6Lets Get It', 'Stephan',  '3:43',0);
+
+
+INSERT INTO song_genre (id,genre) VALUES (1,'rock');
+INSERT INTO song_genre (id,genre) VALUES (2,'pop');
+insert into song_genre (id,genre) VALUES (3,'jazz');
+insert into song_genre (id,genre) VALUES (4,'classic');
+insert into song_genre (id,genre) VALUES (5,'rap');
+insert into song_genre (id,genre) VALUES (6,'dance');
+
+<!--INSERT INTO song_artist (id, artist) VALUES (1, 'Drake');
+<!--INSERT INTO song_artist (id, artist) VALUES (2, '21 Savage');
+<!--INSERT INTO song_artist (id, artist) VALUES (3, 'The Weeknd');
+
+
